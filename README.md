@@ -12,7 +12,9 @@ This is the place where I opensource stuff and break things :rofl:
 
 
 <h2 align="left" id="">Favorite Tech</h2>
+
 > Tools, languages, and other things that I like to work with.
+
 
 <table align="center">
   <tr>
