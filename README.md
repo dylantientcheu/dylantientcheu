@@ -56,10 +56,14 @@ This is the place where I opensource stuff and break things :rofl:
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://api.iconify.design/logos:vue.svg" width="48" height="48" alt="React" />
+        <img src="https://api.iconify.design/logos:vue.svg" width="48" height="48" alt="Vue" />
       </a>
       <br>Vue JS
     </td>
+
+  </tr>
+
+  <tr>
     <td align="center" width="96">
       <a href="#">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48"
@@ -95,7 +99,14 @@ This is the place where I opensource stuff and break things :rofl:
       </a>
       <br>Firebase
     </td>
-
+    <td align="center" width="96">
+      <a href="#">
+        <img
+          src="https://api.iconify.design/logos:terraform-icon.svg?color=currentColor"
+          width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Terraform
+    </td>
   </tr>
 
   <tr>
@@ -116,10 +127,10 @@ This is the place where I opensource stuff and break things :rofl:
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg"
-          width="48" height="48" alt="TailWind" />
+        <img src="https://api.iconify.design/logos:tailwindcss-icon.svg"
+          width="48" height="48" alt="Tailwind" />
       </a>
-      <br>TailWind
+      <br>Tailwind
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -142,7 +153,10 @@ This is the place where I opensource stuff and break things :rofl:
       </a>
       <br>Tensorflow
     </td>
-    <td align="center" width="96">
+  </tr>
+
+  <tr>
+  <td align="center" width="96">
       <a href="#">
         <img src="https://iconape.com/wp-content/png_logo_vector/cib-flask.png" width="48" height="48" alt="Flask" />
       </a>
@@ -175,6 +189,14 @@ This is the place where I opensource stuff and break things :rofl:
           width="48" height="48" alt="Electron" />
       </a>
       <br>Electron
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img
+          src="https://api.iconify.design/logos:postgresql.svg?color=currentColor"
+          width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
     </td>
 
   </tr>
