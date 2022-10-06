@@ -1,4 +1,1 @@
-software, dx, data & infrastructure.
-
-# :)
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=dylantientcheu)](https://twitter.com/dylantientcheu)
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jost&size=16&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=496&height=45&lines=I+do+not+develop%2C+I+craft.;Software;User+Experience;Developer+Experience;Infrastructure;%3A)" alt="Typing SVG" /></a></p>
